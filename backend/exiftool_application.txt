@@ -1,0 +1,40 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.10
+---- System ----
+File Name                       : Application to Probate Will_410BC844.pdf
+Directory                       : .
+File Size                       : 728 kB
+File Modification Date/Time     : 2025:03:23 05:35:08-04:00
+File Access Date/Time           : 2025:03:30 06:11:16-04:00
+File Inode Change Date/Time     : 2025:03:23 10:45:23-04:00
+File Permissions                : -rwxrwx---
+---- File ----
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+---- PDF ----
+PDF Version                     : 1.4
+Linearized                      : No
+Page Count                      : 13
+Create Date                     : 2022:12:29 13:22:46-07:00
+Creator                         : Aspose Pty Ltd.
+Modify Date                     : 2024:01:03 02:07:17+00:00
+Producer                        : Aspose.PDF for .NET 23.6.0
+Title                           : SKM_C45822122913220
+---- XMP-pdf ----
+Producer                        : KONICA MINOLTA bizhub C458
+---- XMP-xmp ----
+Create Date                     : 2022:12:29 13:22:46-07:00
+Modify Date                     : 2024:01:02 14:03:39Z
+Metadata Date                   : 2024:01:02 14:03:39Z
+Creator Tool                    : KM_C458
+---- XMP-xmpMM ----
+Document ID                     : uuid:6b3db4de07e61d0d162e8390abebbf90
+Instance ID                     : uuid:27e2a505-0bb6-49e7-944e-7712befc3ef0
+Rendition Class                 : default
+Version ID                      : 1
+Derived From Instance ID        : uuid:6b3db4de-07e6-1d0d-162e-8390abebbf90
+Derived From Document ID        : uuid:6b3db4de-07e6-1d0d-162e-8390abebbf90
+---- XMP-dc ----
+Format                          : application/pdf
+Title                           : SKM_C45822122913220

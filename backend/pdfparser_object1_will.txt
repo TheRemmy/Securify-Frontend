@@ -1,0 +1,35 @@
+This program has not been tested with this version of Python (3.13.2)
+Should you encounter problems, please use Python version 3.11.1
+obj 1 0
+ Type: /Page
+ Referencing: 29 0 R, 37 0 R, 66 0 R, 59 0 R, 69 0 R, 92 0 R
+ 
+<</Type/Page/MediaBox[0 0 607.67999 794.88]/Tabs/S/Parent 29 0 R/Resources<</XObject<</Img2 37 0 R/Fm0 66 0 R>>/Font<</EXICYD+GDPFNTCI-DroidSansFallback 59 0 R>>/ExtGState<</GS0 69 0 R>>>>/Contents[92 0 R]/Rotate 0>>
+
+
+  <<
+    /Type /Page
+    /MediaBox [0 0 607.67999 794.88]
+    /Tabs /S
+    /Parent 29 0 R
+    /Resources
+      <<
+        /XObject
+          <<
+            /Img2 37 0 R
+            /Fm0 66 0 R
+          >>
+        /Font
+          <<
+            /EXICYD+GDPFNTCI-DroidSansFallback 59 0 R
+          >>
+        /ExtGState
+          <<
+            /GS0 69 0 R
+          >>
+      >>
+    /Contents [92 0 R]
+    /Rotate 0
+  >>
+
+

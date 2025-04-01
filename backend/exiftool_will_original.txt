@@ -1,0 +1,52 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.10
+---- System ----
+File Name                       : Will - Original.pdf
+Directory                       : .
+File Size                       : 282 kB
+File Modification Date/Time     : 2025:03:23 05:35:11-04:00
+File Access Date/Time           : 2025:03:30 04:49:24-04:00
+File Inode Change Date/Time     : 2025:03:23 10:45:23-04:00
+File Permissions                : -rwxrwx---
+---- File ----
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+---- PDF ----
+PDF Version                     : 1.7
+Linearized                      : No
+Page Count                      : 10
+Tagged PDF                      : Yes
+Has XFA                         : No
+PDF Version                     : 1.7
+Creator                         : Aspose Pty Ltd.
+Producer                        : Aspose.PDF for .NET 23.6.0
+Create Date                     : 2024:01:02 14:46:09-06:00
+Modify Date                     : 2024:02:10 22:48:54+00:00
+---- XMP-dc ----
+Format                          : application/pdf
+Creator                         : 
+Title                           : 
+Description                     : 
+Subject                         : 
+---- XMP-xmp ----
+Create Date                     : 2024:01:02 14:46:09-06:00
+Creator Tool                    : GdPicture Managed PDF Plugin
+Modify Date                     : 2024:01:02 14:46:09-06:00
+Metadata Date                   : 2024:01:02 14:46:09-06:00
+---- XMP-pdf ----
+Producer                        : GdPicture Managed PDF Plugin Ver. 4.5
+Keywords                        : 
+---- XMP-xmpMM ----
+Document ID                     : uuid: F475998AC7C00944A699B2CCC99105B5
+Instance ID                     : uuid: F475998AC7C00944A699B2CCC99105B5
+---- XMP-pdfaExtension ----
+Schemas Schema                  : Adobe PDF Schema
+Schemas Namespace URI           : http://ns.adobe.com/pdf/1.3/
+Schemas Prefix                  : pdf
+Schemas Schema                  : XMP Media Management Schema
+Schemas Namespace URI           : http://ns.adobe.com/xap/1.0/mm/
+Schemas Prefix                  : xmpMM
+Schemas Schema                  : PDF/A ID Schema
+Schemas Namespace URI           : http://www.aiim.org/pdfa/ns/id/
+Schemas Prefix                  : pdfaid

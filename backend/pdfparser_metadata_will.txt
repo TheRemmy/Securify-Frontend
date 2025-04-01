@@ -1,0 +1,34 @@
+This program has not been tested with this version of Python (3.13.2)
+Should you encounter problems, please use Python version 3.11.1
+obj 46 0
+ Type: /Metadata
+ Referencing: 
+ Contains stream
+
+  <<
+    /Length 2623
+    /Type /Metadata
+    /Subtype /XML
+  >>
+
+
+obj 57 0
+ Type: /Catalog
+ Referencing: 29 0 R, 54 0 R, 30 0 R, 46 0 R, 90 0 R, 101 0 R
+
+  <<
+    /Type /Catalog
+    /Pages 29 0 R
+    /MarkInfo
+      <<
+        /Marked true
+      >>
+    /StructTreeRoot 54 0 R
+    /OutputIntents 30 0 R
+    /Metadata 46 0 R
+    /AcroForm 90 0 R
+    /Version /1.7
+    /Names 101 0 R
+  >>
+
+

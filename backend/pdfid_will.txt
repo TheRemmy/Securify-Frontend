@@ -1,0 +1,24 @@
+PDFiD 0.2.9 Will - Original.pdf
+ PDF Header: %PDF-1.7
+ obj                   61
+ endobj                61
+ stream                34
+ endstream             33
+ xref                   0
+ trailer                0
+ startxref              1
+ /Page                 10
+ /Encrypt               0
+ /ObjStm                0
+ /JS                    0
+ /JavaScript            0
+ /AA                    0
+ /OpenAction            0
+ /AcroForm              1
+ /JBIG2Decode          10
+ /RichMedia             0
+ /Launch                0
+ /EmbeddedFile          0
+ /XFA                   0
+ /Colors > 2^24         0
+
